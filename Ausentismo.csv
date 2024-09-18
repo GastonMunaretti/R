@@ -1,0 +1,1605 @@
+IdUsuario;Genero;Ciudad;Convenio;Edad;Faltador
+31;M;HAEDO                         ;UPSA ;64;0
+32;M;MORENO                        ;APA  ;63;0
+49;M;LIBERTAD                      ;UPSA ;66;0
+53;M;ITUZAINGO                     ;UPSA ;65;0
+67;M;ITUZAINGO                     ;APA  ;65;0
+68;M;VILLA MAIPU                   ;UPSA ;65;0
+74;M;CAPITAL FEDERAL               ;APA  ;62;0
+75;M;ADROGUE                       ;UPSA ;65;0
+85;M;GUERNICA                      ;APA  ;66;0
+107;M;TEMPERLEY - LOMAS DE ZAMORA   ;APA  ;62;0
+109;M;SAN ANTONIO DE PADUA          ;APA  ;61;0
+110;M;ADROGUE                       ;UPSA ;62;0
+111;M;ITUZAINGO                     ;UPSA ;61;0
+114;M;RAFAEL CASTILLO               ;APA  ;61;0
+116;M;EZEIZA                        ;UPSA ;62;0
+119;M;ISIDRO CASANOVA               ;APA  ;63;0
+123;M;LANUS                         ;APA  ;61;0
+126;M;SAN FERNANDO                  ;UPSA ;60;0
+129;M;MONTE GRANDE                  ;UPSA ;58;0
+131;M;MORON                         ;APA  ;63;0
+136;M;VILLA TESEI                   ;APA  ;59;0
+143;M;MONTE GRANDE                  ;APA  ;58;0
+145;M;EZEIZA                        ;APA  ;60;0
+162;M;LUIS GUILLON                  ;APA  ;58;0
+163;M;ITUZAINGO                     ;UPSA ;63;0
+165;M;SAN MARTIN                    ;UPSA ;61;0
+169;M;EZEIZA                        ;APA  ;59;1
+171;M;MONTE GRANDE                  ;APA  ;58;0
+174;M;LUZURIAGA                     ;APA  ;65;1
+177;M;LOMAS DEL MIRADOR             ;APA  ;60;0
+182;M;MORON                         ;APA  ;62;0
+183;M;ITUZAINGO                     ;APA  ;59;0
+184;M;ITUZAINGO                     ;APA  ;63;0
+185;M;SAN JUSTO                     ;APA  ;61;0
+188;M;CAPITAL FEDERAL               ;UPSA ;64;0
+190;M;EZEIZA                        ;APA  ;64;0
+193;M;CIUDAD JARDIN                 ;UPSA ;58;0
+197;M;CIUDAD EVITA                  ;APA  ;62;0
+200;M;MONTE GRANDE                  ;APA  ;59;0
+207;M;RINCON DE MILBERG             ;UPSA ;65;0
+211;M;MORENO                        ;UPSA ;60;0
+213;M;MONTE GRANDE                  ;APA  ;56;0
+215;M;MONTE GRANDE                  ;UPSA ;53;0
+217;M;MONTE GRANDE                  ;APA  ;57;0
+218;M;MONTE GRANDE                  ;APA  ;58;0
+220;M;ITUZAINGO                     ;APA  ;56;0
+221;M;SAN JUSTO                     ;APA  ;57;1
+222;M;ZEBALLOS - FLORENCIO VARELA   ;APA  ;58;0
+223;M;MONTE GRANDE                  ;APA  ;58;1
+224;M;TEMPERLEY                     ;UPSA ;56;0
+225;M;ESCOBAR                       ;APA  ;63;0
+226;M;CANNING                       ;UPSA ;53;1
+227;M;ALDO BONZI                    ;UPSA ;53;0
+230;M;ITUZAINGO                     ;APA  ;55;0
+231;M;ITUZAINGO                     ;UPSA ;55;0
+232;M;LA TABLADA                    ;UPSA ;52;0
+236;M;EL PALOMAR                    ;APA  ;51;0
+237;M;SAN JUSTO                     ;APA  ;70;0
+238;M;CAPITAL FEDERAL               ;UPSA ;49;0
+239;M;LAFERRERE                     ;APA  ;61;0
+242;M;LAFERRERE                     ;UPSA ;60;1
+250;F;MONTE GRANDE                  ;UPSA ;52;0
+251;F;ADROGUE                       ;UPSA ;52;0
+252;F;OLIVOS                        ;UPSA ;50;0
+254;M;VILLA INSUPERABLE             ;APA  ;61;0
+257;M;CARLOS SPEGAZZINI             ;APA  ;54;1
+258;M;BURZACO                       ;APA  ;55;1
+260;M;HURLINGHAN                    ;UPSA ;57;0
+261;M;LAFERRERE                     ;APA  ;49;1
+262;M;LLAVALLOL                     ;APA  ;54;0
+267;M;MONTE GRANDE                  ;UPSA ;60;0
+268;M;EZEIZA                        ;UPSA ;61;0
+269;M;CORDOBA                       ;APA  ;57;0
+271;M;LAS HERAS                     ;APA  ;47;0
+277;M;LAS HERAS                     ;APA  ;49;0
+281;M;LUIS GUILLON                  ;UPSA ;50;0
+286;M;MONTE GRANDE                  ;UPSA ;51;0
+287;M;EZEIZA                        ;UPSA ;49;0
+291;M;CORDOBA                       ;APA  ;56;0
+295;M;EZEIZA                        ;APA  ;63;0
+297;M;EZEIZA                        ;APA  ;49;0
+298;M;CARLOS SPEGAZZINI             ;UPSA ;54;0
+299;M;EL JAGUEL                     ;APA  ;46;1
+302;M;EZEIZA                        ;APA  ;44;0
+306;F;FLORIDA                       ;UPSA ;44;0
+308;M;EZEIZA                        ;UPSA ;50;0
+309;M;UNQUILLO                      ;APA  ;50;0
+310;M;BURZACO                       ;UPSA ;47;0
+312;M;BURZACO                       ;APA  ;54;0
+313;M;EZEIZA                        ;APA  ;56;0
+314;M;MONTE GRANDE                  ;APA  ;59;0
+316;M;MONTE GRANDE                  ;APA  ;47;0
+320;M;CORDOBA                       ;APA  ;62;0
+321;M;EZEIZA                        ;APA  ;60;0
+322;M;EL JAGUEL                     ;APA  ;50;0
+323;M;EL JAGUEL                     ;APA  ;47;0
+324;M;PONTE VEDRA                   ;UPSA ;44;0
+326;M;EZEIZA                        ;UPSA ;45;0
+327;M;LA UNION FERROVIARIA          ;APA  ;64;0
+328;M;ISIDRO CASANOVA               ;UPSA ;59;0
+329;M;EZEIZA                        ;UPSA ;55;0
+330;M;TRISTAN SUAREZ                ;APA  ;56;0
+331;M;MONTE GRANDE                  ;APA  ;44;0
+332;M;SAN JUSTO                     ;APA  ;55;0
+334;M;FUNES                         ;APA  ;46;0
+336;M;PILAR                         ;APA  ;54;0
+340;M;CAPITAL FEDERAL               ;UPSA ;67;0
+341;M;MARTINEZ                      ;UPSA ;43;0
+343;M;BERNAL                        ;APA  ;60;0
+345;M;MONTE GRANDE                  ;APA  ;58;0
+347;M;EZEIZA                        ;APA  ;53;0
+348;M;BERNAL ESTE                   ;APA  ;64;0
+350;M;ITUZAINGO                     ;UPSA ;54;0
+351;M;VILLA CELINA                  ;APA  ;64;0
+352;M;PARQUE SAN MARTIN             ;APA  ;46;0
+353;F;CAPITAL FEDERAL               ;UPSA ;43;0
+354;M;MONTE GRANDE                  ;UPSA ;50;0
+357;M;EZEIZA                        ;APA  ;44;0
+359;M;CAPITAL FEDERAL               ;APA  ;45;0
+360;M;MAR DEL PLATA                 ;APA  ;47;0
+362;M;BURZACO                       ;APA  ;47;0
+364;M;MONTE GRANDE                  ;UPSA ;43;0
+365;M;9 DE ABRIL                    ;APA  ;51;0
+366;M;MONTE GRANDE                  ;APA  ;52;0
+368;M;MORON                         ;APA  ;52;0
+369;M;MAXIMO PAZ                    ;APA  ;49;0
+373;F;ALDO BONZI                    ;UPSA ;55;0
+375;M;WILDE                         ;APA  ;54;1
+376;M;EZEIZA                        ;APA  ;42;0
+377;F;HAEDO                         ;UPSA ;46;0
+380;M;EL JAGUEL                     ;APA  ;59;1
+382;M;EZEIZA                        ;APA  ;46;0
+383;M;MONTE GRANDE                  ;APA  ;59;0
+384;M;MONTE GRANDE                  ;APA  ;59;0
+385;M;TEMPERLEY                     ;UPSA ;49;1
+388;M;EZEIZA                        ;APA  ;48;0
+389;M;EZEIZA                        ;APA  ;44;0
+391;M;TRISTAN SUAREZ                ;APA  ;46;0
+392;M;CANING                        ;APA  ;51;0
+393;M;LA UNION FERROVIARIA          ;UPSA ;48;0
+394;M;VILLA CELINA                  ;APA  ;50;0
+395;M;CIUDAD EVITA                  ;APA  ;48;0
+397;M;QUILMES OESTE                 ;UPSA ;66;0
+398;M;CORDOBA                       ;APA  ;45;0
+400;M;ARGUELLO - CORDOBA            ;APA  ;42;0
+401;M;EZEIZA                        ;APA  ;46;1
+403;M;ISIDRO CASANOVA               ;APA  ;51;0
+404;M;CARLOS SPEGAZZINI             ;APA  ;56;1
+405;M;MONTE GRANDE                  ;APA  ;45;0
+406;M;TRISTAN SUAREZ                ;APA  ;47;1
+407;M;EL JAGUEL                     ;UPSA ;43;0
+411;M;LUIS GUILLON                  ;APA  ;53;0
+413;M;LANUS                         ;APA  ;49;0
+414;M;MONTE GRANDE                  ;APA  ;49;0
+418;M;TEMPERLEY                     ;APA  ;50;0
+424;F;CORDOBA                       ;UPSA ;48;0
+425;M;EZEIZA                        ;APA  ;49;0
+427;M;SAN JUSTO                     ;APA  ;56;0
+430;M;EZEIZA                        ;UPSA ;46;0
+431;M;EZEIZA                        ;APA  ;45;0
+432;M;EZEIZA                        ;APA  ;43;0
+433;M;MONTE GRANDE                  ;APA  ;47;0
+434;M;MONTE GRANDE                  ;UPSA ;44;0
+439;M;MARTINEZ                      ;APA  ;43;0
+444;M;VILLA CARLOS PAZ              ;APA  ;44;0
+445;M;RAMOS MEJIA                   ;UPSA ;52;0
+446;M;EZEIZA                        ;APA  ;64;0
+448;M;EZEIZA                        ;APA  ;55;0
+449;M;SAN JUSTO                     ;APA  ;61;0
+453;M;CASTELAR                      ;APA  ;44;0
+454;M;SAN JUSTO                     ;UPSA ;46;0
+457;M;LAFERRERE                     ;APA  ;48;0
+459;M;LUIS GUILLON                  ;UPSA ;40;0
+460;M;EZEIZA                        ;APA  ;51;0
+461;M;EZEIZA                        ;APA  ;53;0
+462;M;MONTE GRANDE                  ;APA  ;44;1
+466;M;BERNAL                        ;APA  ;43;0
+467;M;MONTE GRANDE                  ;APA  ;46;0
+468;M;VILLA BOSCH                   ;UPSA ;53;0
+469;M;VILLA TESEI                   ;APA  ;43;0
+472;M;ITUZAINGO                     ;APA  ;63;0
+474;M;VILLA LOS LLANOS              ;APA  ;50;0
+478;M;MERLO                         ;APA  ;53;0
+480;M;VILLA TESEI                   ;APA  ;43;0
+485;M;CAPITAL FEDERAL               ;APA  ;65;0
+486;M;LA UNION                      ;APA  ;44;0
+487;M;EZEIZA                        ;APA  ;41;0
+488;M;CAPITAL FEDERAL               ;APA  ;40;0
+489;M;MERLO                         ;APA  ;45;0
+490;M;LAFERRERE                     ;APA  ;43;0
+491;M;CAPITAL FEDERAL               ;UPSA ;44;0
+492;M;EZEIZA                        ;APA  ;48;0
+494;F;CAPITAL FEDERAL               ;UPSA ;48;0
+495;F;LUIS GUILLON                  ;UPSA ;47;0
+496;M;FUNES                         ;APA  ;54;0
+499;M;LAS HERAS                     ;APA  ;42;0
+501;F;CAPITAL FEDERAL               ;UPSA ;49;0
+502;M;LA TABLADA                    ;APA  ;41;0
+503;M;ITUZAINGO                     ;UPSA ;46;0
+506;M;FUNES                         ;APA  ;51;0
+507;M;CORDOBA                       ;APA  ;56;1
+508;M;UNQUILLO                      ;APA  ;53;1
+515;M;LANUS                         ;UPSA ;42;0
+516;M;LAS HERAS                     ;APA  ;42;0
+517;M;TEMPERLEY                     ;UPSA ;61;0
+518;M;EZEIZA                        ;UPSA ;55;0
+519;M;SAN ANTONIO DE PADUA          ;UPSA ;47;0
+520;M;MONTE GRANDE                  ;APA  ;45;0
+521;M;EL JAGUEL                     ;APA  ;57;1
+522;M;SAN JUSTO                     ;APA  ;40;0
+523;M;PONTEVEDRA                    ;APA  ;41;0
+524;M;MAR DEL PLATA                 ;APA  ;42;0
+525;M;VILLA MADERO                  ;APA  ;45;0
+532;M;EZEIZA                        ;APA  ;42;0
+533;M;LA PLATA                      ;UPSA ;47;0
+540;M;LIBERTAD                      ;APA  ;40;0
+541;M;REMEDIOS DE ESCALADA          ;APA  ;41;0
+542;M;ISIDRO CASANOVA               ;APA  ;43;0
+545;M;CORDOBA                       ;APA  ;47;0
+546;M;EZEIZA                        ;APA  ;40;0
+547;M;CIUDAD EVITA                  ;APA  ;61;0
+549;M;SAN FERNANDO                  ;APA  ;59;0
+551;M;DELVISO                       ;APA  ;45;0
+552;M;MERLO                         ;APA  ;43;0
+553;M;MAIPU - Bº PROCREAR           ;APA  ;42;0
+555;M;EZEIZA                        ;APA  ;54;0
+556;M;LUIS GUILLON                  ;APA  ;39;0
+559;M;RAMOS MEJIA                   ;APA  ;44;0
+560;M;LAFERRERE                     ;APA  ;38;0
+561;M;LANUS ESTE                    ;UPSA ;63;0
+562;M;EL JAGUEL                     ;APA  ;51;0
+565;M;VILLA ALLENDE                 ;UPSA ;48;0
+566;M;CORDOBA                       ;APA  ;54;0
+572;M;LAS HERAS                     ;APA  ;48;0
+573;M;LAS HERAS                     ;APA  ;43;0
+574;M;VILLA NUEVA - GUAYMALLEN      ;APA  ;46;0
+575;M;VICENTE CASARES               ;APA  ;41;0
+576;M;9 DE ABRIL                    ;APA  ;39;0
+578;M;EL JAGUEL                     ;APA  ;38;0
+579;M;MONTE GRANDE                  ;APA  ;41;0
+580;M;TRISTAN SUAREZ                ;APA  ;43;0
+581;M;ITUZAINGO                     ;APA  ;60;0
+582;M;TRISTAN SUAREZ                ;APA  ;43;0
+584;M;MONTE GRANDE                  ;APA  ;38;0
+585;M;EZEIZA                        ;UPSA ;43;0
+586;M;LA UNION FERROVIARIA          ;APA  ;42;0
+588;M;LANUS                         ;UPSA ;43;0
+589;M;WILDE                         ;APA  ;43;0
+590;M;HURLINGHAM                    ;APA  ;46;0
+591;M;GODOY CRUZ                    ;APA  ;50;0
+592;M;LAS HERAS                     ;APA  ;45;0
+595;M;PABLO PODESTA                 ;UPSA ;41;0
+597;M;CAPITAL FEDERAL               ;UPSA ;56;0
+598;M;VILLA MADERO                  ;APA  ;42;0
+599;M;EZEIZA                        ;APA  ;41;0
+600;M;EZEIZA                        ;APA  ;45;0
+601;M;TRISTAN SUAREZ                ;APA  ;43;0
+603;M;CORDOBA                       ;APA  ;61;0
+604;M;RIO CEBALLOS                  ;APA  ;42;0
+606;M;LANUS                         ;APA  ;41;0
+607;M;MORON                         ;APA  ;53;0
+610;M;HAEDO                         ;APA  ;45;0
+612;M;CAPITAL FEDERAL               ;UPSA ;43;0
+613;M;BURZACO                       ;APA  ;50;1
+614;M;SAN JUSTO                     ;UPSA ;39;0
+615;M;CORDOBA                       ;APA  ;36;0
+618;M;MONTE GRANDE                  ;UPSA ;46;1
+622;M;CANNING                       ;APA  ;42;0
+623;M;SAN JUSTO                     ;APA  ;45;0
+624;M;EL JAGUEL                     ;APA  ;38;0
+626;M;ISIDRO CASANOVA               ;APA  ;39;0
+627;M;TRISTAN SUAREZ                ;APA  ;46;0
+630;M;MONTE GRANDE                  ;APA  ;45;0
+631;M;MONTE GRANDE                  ;APA  ;43;0
+635;M;QUILMES OESTE                 ;APA  ;55;0
+636;M;ITUZAINGO                     ;UPSA ;38;0
+637;M;CABA                          ;UPSA ;59;0
+640;M;ADROGUE                       ;APA  ;52;0
+641;M;EL JAGUEL                     ;APA  ;45;0
+642;M;EZEIZA                        ;APA  ;42;0
+644;M;MONTE GRANDE                  ;APA  ;49;0
+647;M;EZEIZA                        ;APA  ;50;0
+649;M;CORDOBA                       ;APA  ;46;0
+650;M;STA MARIA DE PUNILLA          ;APA  ;46;0
+651;M;CORDOBA                       ;APA  ;46;0
+653;M;LA UNION FERROVIARIA          ;APA  ;53;0
+655;M;CAPITAL FEDERAL               ;APA  ;45;1
+657;M;MENDOZA                       ;APA  ;51;0
+658;M;LOMAS DE ZAMORA               ;APA  ;48;0
+660;M;CORDOBA                       ;APA  ;44;0
+662;M;GONZALEZ CATAN                ;APA  ;45;0
+663;M;MONTE GRANDE                  ;APA  ;49;0
+667;M;MONTE GRANDE                  ;APA  ;38;0
+668;M;SAN VICENTE                   ;APA  ;38;0
+669;M;MONTE GRANDE                  ;UPSA ;39;0
+670;M;EL JAGUEL                     ;APA  ;42;0
+671;M;CAPITAL FEDERAL               ;UPSA ;49;0
+672;M;ITUZAINGO                     ;UPSA ;42;0
+673;M;CAPITAL FEDERAL               ;UPSA ;55;0
+675;F;CAPITAL FEDERAL               ;UPSA ;58;0
+682;M;CAPITAL FEDERAL               ;UPSA ;42;0
+683;M;BANFIELD                      ;APA  ;41;1
+684;M;EZEIZA                        ;APA  ;37;0
+687;M;LANUS                         ;UPSA ;39;0
+688;M;TRISTAN SUAREZ                ;APA  ;38;0
+689;M;ITUZAINGO                     ;APA  ;57;1
+690;M;9 DE ABRIL                    ;APA  ;56;0
+691;M;MARCOS PAZ                    ;APA  ;41;0
+692;M;CIUDADELA                     ;APA  ;40;0
+696;M;RAFAEL CASTILLO               ;APA  ;46;0
+697;M;BANFIELD                      ;APA  ;46;0
+698;M;LLAVALLOL                     ;APA  ;40;0
+701;M;BANFIELD                      ;APA  ;43;0
+703;M;LANUS OESTE                   ;APA  ;40;0
+704;M;BERNAL                        ;APA  ;41;0
+705;M;CIUDAD EVITA                  ;APA  ;41;0
+709;M;LAVALLOL                      ;APA  ;39;0
+711;M;MORON                         ;UPSA ;57;0
+716;M;LANUS OESTE                   ;APA  ;48;0
+717;M;LOMAS DE ZAMORA               ;UPSA ;37;0
+719;M;CLAYPOLE                      ;APA  ;37;0
+722;M;VILLA UDAONDO                 ;APA  ;41;0
+723;M;LA UNION FERROVIARIA          ;APA  ;44;0
+726;M;ISIDRO CASANOVA               ;APA  ;40;0
+728;M;EL JAGUEL                     ;APA  ;40;0
+729;M;SALSIPUEDES                   ;APA  ;39;0
+731;M;MONTE GRANDE                  ;APA  ;42;0
+734;M;MAR DEL PLATA                 ;APA  ;46;0
+735;M;CAPITAL FEDERAL               ;APA  ;43;0
+737;M;CARLOS SPEGAZZINI             ;APA  ;39;0
+738;M;MONTEGRANDE                   ;APA  ;37;0
+739;M;LA UNION                      ;APA  ;38;0
+740;M;GONZALEZ CATAN                ;UPSA ;40;0
+743;M;EZEIZA                        ;APA  ;47;0
+746;M;SAN JUSTO                     ;UPSA ;55;1
+752;M;LUZURIAGA - MAIPU             ;UPSA ;40;0
+755;F;CASTELAR                      ;UPSA ;58;0
+757;M;TIGRE                         ;UPSA ;46;0
+759;M;FLORENCIO VARELA              ;UPSA ;42;0
+760;M;LUIS GUILLON                  ;UPSA ;39;0
+763;F;LANUS                         ;UPSA ;48;0
+774;F;LANUS                         ;UPSA ;50;0
+777;M;TEMPERLEY                     ;APA  ;63;0
+778;M;BANFIELD                      ;APA  ;43;0
+781;M;MARIANO ACOSTA                ;UPSA ;63;0
+783;F;GONZALEZ CATAN                ;UPSA ;35;0
+784;M;LAFERRERE                     ;APA  ;43;0
+785;M;LAFERRERE                     ;APA  ;40;0
+788;M;REMEDIOS DE ESCALADA          ;APA  ;44;0
+789;M;FLORENCIO VARELA              ;APA  ;41;0
+790;M;HAEDO                         ;APA  ;34;0
+792;M;CAPITAL FEDERAL               ;UPSA ;56;0
+793;M;LOMAS DEL MIRADOR             ;APA  ;37;1
+794;M;BANFIELD                      ;APA  ;43;0
+796;M;MONTE GRANDE                  ;APA  ;35;0
+801;M;LOMAS DE ZAMORA               ;UPSA ;54;0
+812;M;ADROGUE                       ;APA  ;38;0
+813;M;VILLA TESEI                   ;APA  ;39;0
+814;M;CASTELAR                      ;APA  ;35;0
+815;M;BURZACO                       ;APA  ;40;0
+816;M;CABA                          ;APA  ;44;0
+817;M;EZEIZA                        ;APA  ;37;0
+819;M;LA UNION FERROVIARIA          ;APA  ;46;0
+822;M;EZEIZA                        ;APA  ;35;0
+823;M;EZEIZA                        ;APA  ;37;0
+824;M;BANFIELD                      ;UPSA ;44;0
+826;M;ADROGUE                       ;APA  ;51;0
+833;M;ITUZAINGO                     ;APA  ;41;1
+834;M;MERLO                         ;UPSA ;41;0
+836;M;FLORENCIO VARELA              ;APA  ;64;1
+839;M;LLAVALLOL                     ;APA  ;47;0
+840;M;LANUS                         ;UPSA ;57;0
+842;M;PONTEVEDRA                    ;APA  ;37;0
+844;M;LANUS                         ;APA  ;41;0
+845;M;TEMPERLEY                     ;APA  ;43;0
+846;M;LUIS GUILLON                  ;APA  ;62;0
+849;M;VILLA CARLOS PAZ              ;APA  ;38;1
+852;M;PARQUE SAN MARTIN  MERLO      ;APA  ;39;0
+853;M;ITUZAINGO                     ;APA  ;41;0
+855;M;LAS HERAS                     ;APA  ;40;0
+858;M;CAPITAL FEDERAL               ;APA  ;57;0
+860;M;GONET                         ;UPSA ;56;1
+863;M;VILLA DOMINICO                ;APA  ;36;0
+864;M;LUIS GUILLON                  ;APA  ;58;1
+866;M;BANFIELD                      ;APA  ;42;0
+867;M;LOMAS DE ZAMORA               ;APA  ;63;0
+869;M;LOMAS DE ZAMORA               ;APA  ;48;0
+871;M;VILLA TESEI                   ;APA  ;35;0
+873;M;CLAYPOLE                      ;UPSA ;39;0
+876;M;MONTE GRANDE                  ;APA  ;64;0
+879;M;TEMPERLEY                     ;APA  ;43;0
+886;M;MONTE GRANDE                  ;APA  ;42;0
+887;M;LOMAS DE ZAMORA               ;APA  ;38;0
+888;M;CAPITAL FEDERAL               ;APA  ;38;0
+889;M;LOMAS DE ZAMORA               ;APA  ;54;0
+892;M;ADROGUE                       ;APA  ;33;0
+893;M;LAS HERAS                     ;APA  ;46;0
+894;M;TEMPERLEY                     ;APA  ;35;0
+898;M;SANTOS LUGARES                ;APA  ;46;0
+899;M;GUERNICA                      ;APA  ;52;0
+901;M;CASTELAR                      ;APA  ;37;0
+903;M;BANFIELD                      ;APA  ;51;0
+907;M;CAPITAL FEDERAL               ;UPSA ;33;0
+908;M;VICENTE LOPEZ                 ;APA  ;36;0
+910;M;MONTE GRANDE                  ;APA  ;41;0
+912;M;LOMAS DE ZAMORA               ;APA  ;41;0
+917;M;MAXIMO PAZ                    ;APA  ;45;0
+918;M;SANTOS LUGARES                ;UPSA ;44;0
+921;M;JOSE MARMOL                   ;APA  ;54;0
+923;M;TEMPERLEY                     ;APA  ;37;0
+924;M;TRISTAN SUAREZ                ;APA  ;41;0
+925;M;RAFAEL CALZADA                ;APA  ;38;0
+927;M;MONTE GRANDE                  ;APA  ;40;1
+929;M;TEMPERLEY                     ;UPSA ;57;0
+930;M;GONZALEZ CATAN                ;APA  ;62;1
+932;M;LANUS OESTE                   ;APA  ;57;0
+933;F;LAFERRERE                     ;UPSA ;46;0
+934;M;GUERNICA                      ;APA  ;43;0
+935;M;EZEIZA                        ;APA  ;38;0
+936;M;TEMPERLEY                     ;APA  ;41;0
+937;M;TEMPERLEY                     ;APA  ;42;0
+938;M;BANFIELD                      ;APA  ;50;0
+939;M;PONTEVEDRA                    ;UPSA ;32;0
+941;M;SAN JUSTO                     ;APA  ;36;0
+942;M;SAN VICENTE                   ;APA  ;35;1
+943;M;LA UNION FERROVIARIA          ;APA  ;46;0
+944;M;LAFERRERE                     ;APA  ;33;0
+947;M;EL JAGUEL                     ;APA  ;44;0
+948;M;EL JAGUEL                     ;APA  ;39;0
+949;M;EZEIZA                        ;APA  ;32;0
+952;M;MORENO                        ;APA  ;39;1
+953;M;CIUDADELA                     ;APA  ;42;0
+954;M;LA UNION FERROVIARIA          ;APA  ;38;0
+955;M;LA UNION                      ;APA  ;37;0
+956;M;TRISTAN SUAREZ                ;APA  ;41;0
+957;M;VILLA MADERO                  ;APA  ;33;0
+958;M;ITUZAINGO                     ;APA  ;39;1
+960;M;CAÑUELAS                      ;APA  ;41;0
+962;M;ESTANCIA VIEJA                ;APA  ;41;0
+965;M;CIUDAD EVITA                  ;APA  ;50;0
+966;M;PACHECO                       ;APA  ;61;0
+968;M;MORENO                        ;APA  ;48;0
+969;M;VILLA BOSCH                   ;APA  ;49;0
+970;M;LIBERTAD                      ;APA  ;45;1
+971;M;CAPITAL FEDERAL               ;APA  ;51;0
+972;M;AVELLANEDA                    ;APA  ;57;0
+973;M;CABA                          ;APA  ;46;0
+974;M;ISIDRO CASANOVA               ;APA  ;44;0
+976;M;VILLA TESEI                   ;APA  ;47;0
+977;M;FLORIDA                       ;APA  ;55;0
+980;M;QUILMES                       ;APA  ;53;0
+985;M;EZEIZA                        ;APA  ;41;1
+989;M;LAFERRERE                     ;APA  ;50;0
+990;M;LAFERRERE                     ;APA  ;42;0
+991;M;PTE. DERQUI - PILAR           ;APA  ;49;0
+992;M;FLORENCIO VARELA              ;APA  ;44;0
+993;M;EL TALAR                      ;UPSA ;47;0
+996;M;CARLOS SPEGAZZINI             ;APA  ;45;0
+997;M;SAN MIGUEL                    ;APA  ;50;0
+998;M;VILLA DE MAYO                 ;APA  ;56;0
+999;M;MAIPU                         ;APA  ;55;0
+1001;M;LAS HERAS                     ;APA  ;43;0
+1002;M;GODOY CRUZ                    ;APA  ;42;0
+1004;M;ALGARROBAL - LAS HERAS        ;APA  ;46;0
+1005;M;VILLA MARINI - GODOY CRUZ     ;APA  ;47;0
+1006;M;LAS HERAS                     ;APA  ;51;0
+1007;M;SAN LORENZO                   ;APA  ;43;0
+1030;M;VILLA ALLENDE                 ;APA  ;54;0
+1031;M;VILLA MADERO                  ;APA  ;62;0
+1032;M;HAEDO                         ;APA  ;46;0
+1034;M;SAN ANTONIO DE PADUA          ;APA  ;38;0
+1035;M;LANUS                         ;APA  ;38;0
+1036;M;VIRREY DEL PINO               ;APA  ;51;0
+1037;M;SEGUNDA LOMA - MERLO          ;APA  ;42;0
+1038;M;PABLO PODESTA                 ;APA  ;39;0
+1040;M;MERLO                         ;APA  ;49;1
+1045;M;LA CALERA                     ;APA  ;41;1
+1046;M;CORDOBA                       ;APA  ;42;0
+1047;M;CORDOBA                       ;APA  ;45;0
+1050;M;CORDOBA                       ;APA  ;39;0
+1051;M;CORDOBA                       ;APA  ;51;0
+1053;M;CORDOBA                       ;APA  ;43;0
+1054;M;CORDOBA                       ;APA  ;38;0
+1055;M;CORDOBA                       ;APA  ;44;0
+1059;M;MERLO                         ;APA  ;40;0
+1060;M;EZEIZA                        ;APA  ;46;0
+1062;M;LIBERTAD                      ;APA  ;41;0
+1065;M;SAN JUSTO                     ;UPSA ;36;0
+1068;M;CAPITAL FEDERAL               ;UPSA ;33;1
+1069;M;EZEIZA                        ;APA  ;48;1
+1070;M;MUÑIZ                         ;APA  ;45;0
+1072;M;FUNES                         ;APA  ;44;0
+1073;M;FUNES                         ;APA  ;42;0
+1074;M;ROSARIO                       ;APA  ;43;0
+1075;M;ROSARIO                       ;APA  ;42;0
+1076;M;FUNES                         ;APA  ;56;0
+1077;M;CORDOBA                       ;APA  ;55;0
+1078;M;RIO CEBALLOS                  ;APA  ;40;0
+1079;M;RIO CEBALLOS                  ;APA  ;40;0
+1081;M;QUILMES                       ;APA  ;43;0
+1082;M;VILLA ALLENDE                 ;APA  ;41;0
+1083;M;UNQUILLO                      ;APA  ;42;0
+1084;M;CORDOBA                       ;APA  ;41;0
+1088;M;EL JAGUEL                     ;APA  ;35;1
+1089;M;CIUDAD EVITA                  ;APA  ;56;0
+1090;M;BECCAR                        ;UPSA ;35;0
+1092;M;LAMADRID                      ;APA  ;35;0
+1093;M;EZEIZA                        ;APA  ;31;0
+1095;M;ISIDRO CASANOVA               ;UPSA ;32;0
+1096;M;EZEIZA                        ;APA  ;38;0
+1097;M;LAFERRERE                     ;APA  ;38;0
+1098;M;EZEIZA                        ;APA  ;31;0
+1099;M;MONTE GRANDE                  ;APA  ;32;0
+1105;M;CARLOS SPEGAZZINI             ;APA  ;55;0
+1107;M;CANNING                       ;UPSA ;32;0
+1112;M;LLAVALLOL                     ;APA  ;46;1
+1113;M;MONTE GRANDE                  ;APA  ;53;1
+1121;M;BANFIELD                      ;APA  ;51;0
+1122;M;ALTOS DE MONTE GRANDE         ;APA  ;40;0
+1123;M;BANFIELD                      ;APA  ;44;0
+1124;M;CASTELAR                      ;APA  ;48;0
+1126;M;CIUDAD EVITA                  ;APA  ;37;1
+1128;M;VILLA MADERO                  ;APA  ;46;0
+1131;M;LAS HERAS                     ;APA  ;46;0
+1133;M;LANUS OESTE                   ;APA  ;56;1
+1134;M;ITUZAINGO                     ;UPSA ;43;0
+1135;M;SAN MARTIN                    ;UPSA ;54;0
+1138;M;CAPITAL FEDERAL               ;APA  ;47;0
+1139;M;TEMPERLEY                     ;APA  ;42;0
+1140;M;FLORENCIO VARELA              ;APA  ;38;0
+1141;M;LANUS OESTE                   ;APA  ;39;0
+1142;M;CAPITAL FEDERAL               ;APA  ;47;0
+1145;M;ALEJANDRO KORN                ;APA  ;59;1
+1148;M;MUNRO                         ;APA  ;47;0
+1149;M;LAFERRERE                     ;APA  ;42;1
+1152;M;CANNING                       ;APA  ;37;0
+1154;M;EZEIZA                        ;UPSA ;35;0
+1156;M;CAPITAL FEDERAL               ;APA  ;48;0
+1157;M;HURLINGHAN                    ;APA  ;46;0
+1159;M;CAPITAL FEDERAL               ;APA  ;52;0
+1161;M;CAPITAL FEDERAL               ;UPSA ;48;0
+1162;M;CAPITAL FEDERAL               ;APA  ;46;0
+1163;M;SALSIPUEDES                   ;APA  ;40;1
+1164;M;CARLOS PAZ                    ;APA  ;49;0
+1166;M;VIRREY DEL PINO               ;APA  ;58;0
+1167;M;MONTE GRANDE                  ;APA  ;42;0
+1168;M;EZEIZA                        ;APA  ;31;0
+1169;M;LOMAS DE ZAMORA               ;APA  ;32;1
+1171;M;ADROGUE                       ;APA  ;53;0
+1173;M;MORENO                        ;APA  ;50;0
+1174;M;MORON                         ;APA  ;37;0
+1176;M;LONGCHAMPS                    ;APA  ;32;0
+1177;M;VILLA LUZURIAGA               ;APA  ;32;1
+1179;M;GONZALEZ CATAN                ;APA  ;56;1
+1181;M;LAFERRERE                     ;APA  ;41;0
+1182;M;MERLO                         ;APA  ;32;0
+1183;M;LUIS GUILLON                  ;APA  ;32;0
+1185;M;PASO DEL REY                  ;APA  ;33;0
+1186;M;LOMAS DE ZAMORA               ;APA  ;35;0
+1188;M;EZEIZA                        ;APA  ;34;1
+1189;M;CANNING                       ;APA  ;35;0
+1191;M;CAÑUELAS                      ;APA  ;31;1
+1194;M;EL PATO - BERAZATEGUI         ;APA  ;59;0
+1195;M;ITUZAINGO                     ;APA  ;47;1
+1196;M;LUIS GUILLON                  ;APA  ;53;1
+1199;M;LAFERRERE                     ;APA  ;47;0
+1201;M;LLAVALLOL                     ;APA  ;34;0
+1203;M;CASTELAR                      ;APA  ;37;0
+1204;F;TURDERA                       ;UPSA ;46;0
+1212;M;VILLA BALLESTER               ;APA  ;58;0
+1213;M;CAPITAL FEDERAL               ;APA  ;45;0
+1216;M;BOULOGNE                      ;APA  ;48;0
+1217;M;LA UNION FERROVIARIA          ;APA  ;31;1
+1221;M;EL JAGUEL                     ;APA  ;32;0
+1222;M;CIUDAD EVITA                  ;APA  ;38;0
+1223;M;MONTE GRANDE                  ;APA  ;38;0
+1226;M;EZEIZA                        ;APA  ;34;0
+1227;M;MONTE GRANDE                  ;APA  ;31;0
+1229;M;EZEIZA                        ;APA  ;33;0
+1231;M;GONZALEZ CATAN                ;APA  ;36;0
+1233;M;LA UNION FERROVIARIA          ;APA  ;31;0
+1240;M;MONTE GRANDE                  ;APA  ;30;0
+1241;M;MORENO                        ;APA  ;32;1
+1243;M;EZEIZA                        ;APA  ;30;1
+1244;M;JOSE MARMOL                   ;APA  ;42;0
+1245;M;LANUS                         ;APA  ;43;0
+1246;M;TEMPERLEY                     ;APA  ;34;0
+1247;M;MONTE GRANDE                  ;APA  ;33;0
+1248;M;EZEIZA                        ;APA  ;47;1
+1249;M;CARLOS SPEGAZZINI             ;APA  ;33;1
+1250;M;TEMPERLEY                     ;APA  ;46;1
+1252;M;MORON                         ;APA  ;31;0
+1253;M;SAN JUSTO                     ;APA  ;47;1
+1254;M;VIRREY DEL PINO               ;APA  ;35;0
+1255;M;LANUS OESTE                   ;APA  ;37;0
+1257;M;LIBERTAD                      ;APA  ;33;1
+1259;M;VILLA TESEI                   ;APA  ;37;0
+1260;M;TRISTAN SUAREZ                ;APA  ;30;0
+1261;M;MERLO                         ;APA  ;34;0
+1262;M;TEMPERLEY                     ;APA  ;31;0
+1265;M;EZEIZA                        ;APA  ;30;1
+1267;M;BURZACO                       ;APA  ;32;0
+1268;M;VIRREY DEL PINIO              ;APA  ;47;1
+1270;M;LIBERTAD                      ;APA  ;32;0
+1271;M;TEMPERLEY                     ;APA  ;32;1
+1272;M;CAÑUELAS                      ;APA  ;31;0
+1273;M;MORON                         ;APA  ;30;0
+1274;M;MONTE GRANDE                  ;APA  ;34;1
+1275;M;ADROGUE                       ;APA  ;39;0
+1276;M;TRISTAN SUAREZ                ;APA  ;44;0
+1277;M;EZEIZA                        ;APA  ;31;0
+1279;M;EZEIZA                        ;APA  ;40;0
+1280;M;CAÑUELAS                      ;APA  ;31;0
+1281;M;LLAVALLOL                     ;APA  ;39;0
+1284;M;TRISTAN SUAREZ                ;APA  ;43;0
+1285;M;REMEDIOS DE ESCALADA          ;APA  ;34;0
+1286;M;LA UNION                      ;APA  ;35;0
+1288;M;LANUS                         ;APA  ;38;0
+1310;F;QUILMES                       ;UPSA ;39;0
+1315;M;EL JAGUEL                     ;APA  ;30;1
+1320;M;ITUZAINGO                     ;APA  ;35;0
+1322;M;LOMAS DE ZAMORA               ;APA  ;37;1
+1323;M;CABA                          ;APA  ;39;0
+1324;M;LAFERRERE                     ;APA  ;40;0
+1325;M;CASTELAR                      ;APA  ;30;0
+1326;M;MONTE GRANDE                  ;APA  ;33;0
+1327;M;LANUS                         ;APA  ;41;0
+1329;M;MORON                         ;APA  ;32;0
+1330;M;ITUZAINGO                     ;APA  ;32;0
+1331;M;CAPITAL FEDERAL               ;APA  ;33;0
+1334;M;LOMAS DE ZAMORA               ;APA  ;44;0
+1336;M;MORENO                        ;APA  ;34;0
+1338;M;ADROGUE                       ;APA  ;44;0
+1339;M;QUILMES                       ;APA  ;42;0
+1342;M;TIGRE                         ;APA  ;45;0
+1343;M;SAN MARTIN                    ;UPSA ;30;0
+1346;M;MERLO                         ;APA  ;39;0
+1347;M;CAPITAL FEDERAL               ;APA  ;29;0
+1348;M;LANUS                         ;APA  ;30;0
+1353;M;SAN JUSTO                     ;APA  ;51;0
+1356;M;SAN MARTIN                    ;APA  ;41;0
+1357;M;VILLA LUZURIAGA               ;APA  ;38;0
+1358;M;MONTE GRANDE                  ;APA  ;54;0
+1360;M;LOMAS DE ZAMORA               ;APA  ;34;0
+1361;M;LOMAS DE ZAMORA               ;APA  ;32;0
+1364;M;EL JAGUEL                     ;APA  ;34;1
+1365;M;AVELLANEDA                    ;APA  ;40;0
+1366;M;CAPITAL FEDERAL               ;APA  ;38;0
+1367;M;MARTIN CORONADO               ;APA  ;30;0
+1369;M;TRISTAN SUAREZ                ;APA  ;30;0
+1370;M;EZEIZA                        ;APA  ;41;0
+1372;M;MONTE GRANDE                  ;APA  ;35;0
+1373;M;MORON                         ;APA  ;35;0
+1374;M;MONTE GRANDE                  ;APA  ;33;0
+1376;M;EZEIZA                        ;APA  ;41;0
+1377;M;EL JAGUEL                     ;APA  ;31;1
+1379;F;SAN CRISTOBAL                 ;APA  ;35;0
+1380;F;BURZACO                       ;APA  ;38;0
+1381;M;MONTE GRANDE                  ;APA  ;48;0
+1384;M;AGUA DE ORO - COLON           ;APA  ;49;0
+1392;M;CAPITAL FEDERAL               ;UPSA ;37;0
+1398;M;CORDOBA                       ;APA  ;33;1
+1417;M;MERLO                         ;APA  ;38;0
+1420;M;LOS POLVORINES                ;APA  ;49;0
+1422;M;FLORENCIO VARELA              ;APA  ;46;1
+1423;M;EZEIZA                        ;APA  ;29;1
+1425;M;EL JAGUEL                     ;APA  ;32;0
+1426;M;LIBERTAD                      ;APA  ;31;0
+1428;M;SAN ANTONIO DE PADUA - MERLO  ;APA  ;32;0
+1430;M;LIBERTAD                      ;APA  ;36;0
+1431;F;EZEIZA                        ;UPSA ;52;0
+1439;M;LOMAS DE ZAMORA               ;APA  ;62;0
+1441;M;EZEIZA                        ;APA  ;47;0
+1442;M;BERNAL                        ;APA  ;55;0
+1445;M;CARAPACHAY                    ;APA  ;46;0
+1446;M;CIUDAD EVITA                  ;APA  ;31;0
+1447;M;SAN JUSTO                     ;APA  ;42;0
+1452;M;SAN MARTIN                    ;APA  ;46;1
+1453;M;CAPITAL FEDERAL               ;APA  ;44;0
+1454;M;MORON                         ;APA  ;49;0
+1455;M;MORON                         ;APA  ;29;0
+1456;M;CLAYPOLE                      ;APA  ;30;0
+1457;M;EL JAGUEL                     ;APA  ;43;1
+1460;M;ALEJANDRO PETION              ;APA  ;32;1
+1462;M;LA UNION FERROVIARIA          ;APA  ;41;0
+1464;M;DOCK SUD                      ;APA  ;45;0
+1465;M;EL JAGUEL                     ;APA  ;38;0
+1467;M;SAN JUSTO                     ;APA  ;54;0
+1468;M;MORON                         ;APA  ;37;0
+1469;M;LA UNION                      ;APA  ;42;0
+1470;M;LOMAS DEL MIRADOR             ;APA  ;41;0
+1472;M;BERNAL                        ;APA  ;39;0
+1473;M;LOMAS DE ZAMORA               ;APA  ;28;1
+1474;M;TRISTAN SUAREZ                ;APA  ;44;0
+1475;M;LA TABLADA - MATANZA          ;APA  ;28;0
+1476;M;MORON                         ;APA  ;44;0
+1477;M;SAN JUSTO                     ;APA  ;45;0
+1478;M;BANFIELD                      ;APA  ;41;1
+1480;M;MORON                         ;APA  ;36;0
+1481;M;VILLA CELINA                  ;APA  ;33;0
+1482;M;EZEIZA                        ;APA  ;59;1
+1484;M;WILDE                         ;APA  ;36;0
+1485;M;MONTE GRANDE                  ;APA  ;29;0
+1486;M;MONTE GRANDE                  ;APA  ;33;0
+1487;M;EZEIZA                        ;APA  ;30;0
+1488;M;TRISTAN SUAREZ                ;APA  ;31;0
+1491;M;LIBERTAD                      ;APA  ;40;0
+1492;M;PARQUE SAN MARTIN             ;APA  ;59;0
+1494;M;VILLA BALLESTER               ;APA  ;29;0
+1498;M;CIUDAD EVITA                  ;APA  ;39;1
+1499;M;MERLO                         ;APA  ;36;0
+1500;M;LOMAS DE ZAMORA               ;APA  ;59;0
+1501;M;MERLO                         ;APA  ;43;0
+1504;M;LOMAS DE ZAMORA               ;APA  ;45;0
+1510;M;QUILMES                       ;APA  ;34;1
+1511;M;MERLO                         ;APA  ;29;0
+1513;M;LOMAS DE ZAMORA               ;APA  ;58;0
+1514;F;LANUS                         ;UPSA ;40;0
+1515;F;VILLA CELINA                  ;UPSA ;48;0
+1516;M;LUIS GUILLON                  ;APA  ;38;0
+1517;M;MONTE GRANDE                  ;APA  ;38;0
+1519;M;MORON                         ;APA  ;42;0
+1520;M;SAN MARTIN                    ;APA  ;37;0
+1521;M;MONTE GRANDE                  ;APA  ;45;0
+1522;M;VILLA TESEI                   ;APA  ;36;0
+1523;M;BERNAL                        ;APA  ;39;0
+1525;M;QUILMES                       ;APA  ;47;0
+1526;M;ADROGUE                       ;APA  ;32;0
+1527;M;C.A.B.A.                      ;APA  ;39;0
+1528;M;TANTI                         ;APA  ;46;0
+1529;M;CORDOBA                       ;APA  ;42;0
+1530;M;COLONIA TIROLESA - COLON      ;APA  ;31;1
+1531;M;CORDOBA                       ;APA  ;41;0
+1532;M;ANISACATE                     ;APA  ;30;0
+1533;M;LAS HERAS                     ;APA  ;33;0
+1535;M;RAMOS MEJIA                   ;UPSA ;37;0
+1536;M;EZPELETA OESTE                ;APA  ;43;0
+1538;M;MORON                         ;APA  ;37;0
+1539;M;EL TALAR                      ;APA  ;37;0
+1542;F;SAN MARTIN                    ;APA  ;34;0
+1544;M;ADROGUE                       ;UPSA ;61;0
+1550;M;MENDOZA                       ;APA  ;33;0
+1555;M;EZEIZA                        ;APA  ;33;0
+1558;M;LANUS                         ;APA  ;29;0
+1559;M;CAPITAL FEDERAL               ;APA  ;44;0
+1561;M;BERISSO                       ;APA  ;41;0
+1562;M;VILLA TESEI                   ;APA  ;39;0
+1564;M;LANUS OESTE                   ;APA  ;37;0
+1565;M;PONTEVEDRA                    ;APA  ;37;0
+1566;M;BANFIELD                      ;APA  ;37;0
+1567;M;MARIANO ACOSTA                ;APA  ;36;1
+1570;M;BILLINGHURST                  ;APA  ;32;0
+1571;M;EL TALAR                      ;APA  ;28;0
+1572;M;VILLA TESEI                   ;APA  ;29;0
+1573;M;LOMAS DE ZAMORA               ;APA  ;40;0
+1575;M;ESTEBAN ECHEVERRIA            ;APA  ;35;0
+1576;M;CARRODILLA                    ;APA  ;36;0
+1577;M;MONTE GRANDE                  ;APA  ;38;0
+1578;M;MERLO                         ;APA  ;35;0
+1579;M;SAN MARTIN                    ;APA  ;40;0
+1580;M;JOSE C PAZ                    ;APA  ;30;0
+1582;M;BANFIELD                      ;APA  ;39;1
+1584;M;VILLA BALLESTER               ;APA  ;46;1
+1585;M;TRISTAN SUAREZ                ;APA  ;48;0
+1586;F;VILLA PROGRESO - SAN MARTIN   ;APA  ;47;0
+1588;M;LOMAS DE ZAMORA               ;APA  ;27;1
+1589;M;ITUZAINGO                     ;APA  ;33;0
+1591;M;CIUDADELA                     ;APA  ;47;0
+1593;M;CAPITAL FEDERAL               ;APA  ;27;0
+1594;M;EL JAGÜEL                     ;APA  ;31;0
+1596;M;VILLA DOMINICO                ;APA  ;33;0
+1597;M;EL JAGÜEL                     ;APA  ;30;0
+1598;M;CIUDAD EVITA                  ;APA  ;51;1
+1599;M;SAN MARTIN                    ;APA  ;28;0
+1600;M;VILLA BALLESTER               ;APA  ;38;1
+1601;M;BERISSO                       ;APA  ;42;0
+1602;M;CAPITAL FEDERAL               ;APA  ;30;0
+1603;M;EZEIZA                        ;APA  ;32;0
+1605;M;TEMPERLEY                     ;APA  ;40;0
+1606;M;EL JAGUEL                     ;APA  ;34;0
+1607;M;MORON                         ;APA  ;39;0
+1608;M;HAEDO                         ;APA  ;30;0
+1610;M;ITUZAINGO                     ;APA  ;28;0
+1611;M;MERLO                         ;APA  ;27;0
+1618;M;CAPITAL FEDERAL               ;UPSA ;53;0
+1619;M;ITUZAINGO                     ;APA  ;31;0
+1620;M;CABA                          ;APA  ;35;0
+1623;M;GRAL. PACHECO                 ;APA  ;34;0
+1625;M;EZEIZA                        ;APA  ;40;0
+1626;M;EZEIZA                        ;APA  ;38;0
+1627;M;LUIS GUILLON                  ;APA  ;31;0
+1630;M;MENDOZA                       ;APA  ;34;0
+1631;M;EL PLUMERILLO - LAS HERAS     ;APA  ;34;0
+1632;M;DORREGO                       ;APA  ;35;0
+1635;M;PASO DEL REY                  ;APA  ;28;0
+1636;M;VILLA CELINA                  ;APA  ;47;0
+1637;M;BERNAL                        ;APA  ;41;0
+1638;M;RAMOS MEJIA- LA MATANZA       ;APA  ;46;0
+1639;M;LOMAS DE ZAMORA               ;APA  ;44;1
+1641;M;GONZALEZ CATAN                ;APA  ;39;1
+1642;M;LUIS GUILLON                  ;APA  ;50;0
+1643;M;ITUZAINGO                     ;APA  ;45;0
+1644;M;HURLINGHAM                    ;APA  ;34;0
+1646;M;CAPITAL FEDERAL               ;APA  ;38;0
+1647;M;BURZACO                       ;APA  ;29;1
+1649;M;EZEIZA                        ;APA  ;37;0
+1650;M;CASTELAR                      ;APA  ;45;0
+1653;M;EZEIZA                        ;APA  ;52;0
+1654;M;TRISTAN SUAREZ                ;APA  ;28;0
+1656;M;CAPITAL FEDERAL               ;APA  ;48;0
+1657;M;VILLA TESEI                   ;APA  ;47;0
+1659;M;GUERNICA                      ;APA  ;41;0
+1661;M;TRISTAN SUAREZ                ;APA  ;30;0
+1662;M;EZEIZA                        ;APA  ;28;0
+1663;M;PARQUE SAN MARTIN             ;APA  ;34;0
+1665;M;MONTE GRANDE                  ;APA  ;28;0
+1668;M;CAPITAL FEDERAL               ;APA  ;40;0
+1669;M;VILLA BONICH                  ;APA  ;41;1
+1670;M;EZEIZA                        ;APA  ;31;0
+1672;M;SAN ANDRES                    ;APA  ;50;0
+1673;M;MONTE GRANDE                  ;APA  ;30;0
+1674;M;BANFIELD                      ;APA  ;43;1
+1675;M;VILLA ZAGALA                  ;APA  ;52;0
+1677;M;TIGRE                         ;APA  ;26;0
+1678;M;VILLA BONICH                  ;APA  ;45;1
+1682;M;BILLINGHURST                  ;APA  ;36;0
+1684;M;ITUZAINGO                     ;APA  ;34;0
+1685;M;CAPITAL FEDERAL               ;APA  ;46;0
+1686;M;MORON                         ;APA  ;44;0
+1687;M;SAN JUSTO                     ;APA  ;37;0
+1689;M;LANUS                         ;APA  ;32;0
+1691;F;LA UNION FERROVIARIA          ;UPSA ;32;0
+1692;M;LOS HORNOS                    ;APA  ;38;0
+1693;M;JOSE LEON SUAREZ              ;APA  ;46;0
+1694;M;SAN ANDRES                    ;APA  ;42;0
+1698;M;MORON                         ;APA  ;28;0
+1699;M;RIO CEBALLOS                  ;APA  ;35;0
+1700;M;LA CALERA                     ;APA  ;28;0
+1701;M;RIO CEBALLOS                  ;APA  ;32;0
+1703;M;CORDOBA                       ;APA  ;37;0
+1704;M;ARGUELLO                      ;APA  ;36;0
+1705;M;UNQUILLO                      ;APA  ;41;0
+1706;M;CORDOBA                       ;APA  ;32;0
+1707;M;MENDIOLAZA                    ;APA  ;29;0
+1711;M;MONTE GRANDE                  ;APA  ;33;0
+1716;M;SAN MARTIN                    ;APA  ;44;0
+1717;M;EZEIZA                        ;APA  ;54;1
+1718;M;LUIS GUILLON                  ;APA  ;36;1
+1719;M;LAFERRERE                     ;APA  ;44;0
+1722;M;MONTE GRANDE                  ;APA  ;31;1
+1723;M;ITUZAINGO                     ;UPSA ;34;0
+1724;M;LUIS GUILLON                  ;APA  ;29;0
+1726;M;MERLO                         ;APA  ;28;1
+1727;M;MERLO                         ;APA  ;46;0
+1728;M;MORON                         ;APA  ;26;0
+1729;M;ADROGUE                       ;APA  ;31;0
+1731;M;EZEIZA                        ;APA  ;56;0
+1734;M;SAN MARTIN                    ;APA  ;49;0
+1735;M;EZEIZA                        ;APA  ;34;1
+1736;M;MORON                         ;APA  ;38;0
+1737;M;MORON                         ;APA  ;36;0
+1738;M;MERLO                         ;APA  ;32;0
+1739;M;GONZALEZ CATAN                ;APA  ;41;1
+1740;M;COOP J. HERNANDEZ - V. ZAGALA ;APA  ;41;0
+1742;M;SANTA LUCIA                   ;APA  ;44;1
+1743;M;CORDOBA                       ;APA  ;38;1
+1744;M;LA CUMBRE                     ;APA  ;46;0
+1746;M;SAN JUAN                      ;APA  ;34;0
+1747;M;RAWSON                        ;APA  ;29;0
+1749;M;MONTE GRANDE                  ;APA  ;44;0
+1750;M;9 DE ABRIL                    ;APA  ;38;0
+1751;M;MAXIMO PAZ                    ;APA  ;40;0
+1753;M;PARQUE SAN MARTIN             ;APA  ;40;0
+1754;M;CABA                          ;APA  ;61;0
+1755;M;BOULOGNE                      ;APA  ;37;0
+1756;M;EZPELETA                      ;APA  ;33;0
+1759;M;PLATANOS - BERAZATEGUI        ;APA  ;31;0
+1760;M;CAPITAL FEDERAL               ;APA  ;35;0
+1761;M;LA UNION FERROVIARIA          ;APA  ;35;0
+1762;M;MARTINEZ                      ;APA  ;38;0
+1765;M;LA UNION FERROVIARIA          ;APA  ;52;0
+1766;M;TIGRE                         ;APA  ;40;1
+1767;M;SAN JUSTO                     ;APA  ;44;0
+1778;M;EZEIZA                        ;APA  ;38;1
+1779;M;MONTE GRANDE                  ;APA  ;26;1
+1780;M;EL JAGUEL                     ;APA  ;32;0
+1781;M;VILLA CELINA                  ;APA  ;45;1
+1783;M;MERLO                         ;APA  ;26;0
+1784;M;MERLO                         ;APA  ;28;1
+1791;M;SAN JUSTO                     ;APA  ;28;0
+1792;M;MORON                         ;APA  ;29;0
+1793;M;PARQUE SAN MARTIN - MERLO     ;APA  ;49;1
+1794;M;MORON                         ;APA  ;36;1
+1795;M;ISIDRO CASANOVA               ;APA  ;36;0
+1796;M;CAPITAL FEDERAL               ;APA  ;47;0
+1797;M;EZEIZA                        ;APA  ;45;0
+1798;M;GUERNICA                      ;APA  ;35;0
+1801;F;LUIS GUILLON                  ;UPSA ;37;1
+1802;F;CAPITAL FEDERAL               ;UPSA ;44;0
+1804;M;GERLI                         ;APA  ;52;0
+1805;M;JOSE C PAZ                    ;APA  ;41;0
+1806;M;SAN MIGUEL                    ;APA  ;41;0
+1807;M;MORON                         ;APA  ;44;0
+1809;M;MERLO                         ;APA  ;37;0
+1811;M;REMEDIOS DE ESCALADA          ;APA  ;45;0
+1812;M;CABA                          ;APA  ;34;0
+1814;M;EZEIZA                        ;APA  ;45;0
+1820;M;ISIDRO CASANOVA               ;APA  ;56;0
+1821;M;BARRIO LUJAN - FCIO VARELA    ;APA  ;51;0
+1824;M;CIUDAD EVITA                  ;APA  ;47;0
+1825;F;Bº LIBERTADOR                 ;APA  ;43;0
+1826;M;GLEW                          ;APA  ;39;0
+1828;M;EZEIZA                        ;APA  ;60;0
+1829;F;MONTE GRANDE                  ;APA  ;34;1
+1831;M;FLORENCIO VARELA              ;APA  ;60;1
+1834;M;LA UNION FERROVIARIA          ;APA  ;38;0
+1835;F;EL JAGUEL                     ;APA  ;43;0
+1836;F;CARLOS SPEGAZZINI             ;APA  ;57;1
+1837;F;GONZALEZ CATAN                ;APA  ;34;1
+1838;F;MONTE GRANDE                  ;APA  ;58;0
+1840;F;SAN JUSTO                     ;APA  ;55;0
+1843;F;GONZALEZ CATAN                ;APA  ;45;1
+1844;F;EZEIZA                        ;APA  ;57;0
+1845;F;MONTE GRANDE                  ;APA  ;40;1
+1847;F;EZEIZA                        ;APA  ;38;0
+1848;F;VIRREY DEL PINO               ;APA  ;58;0
+1850;F;MONTE GRANDE                  ;APA  ;41;0
+1852;F;EZEIZA                        ;APA  ;51;1
+1854;F;CARLOS SPEGAZZINI             ;APA  ;50;0
+1855;M;ISIDRO CASANOVA               ;APA  ;66;0
+1856;M;LA UNION FERROVIARIA          ;APA  ;39;0
+1858;M;EZEIZA                        ;APA  ;48;0
+1860;F;MONTE GRANDE                  ;APA  ;58;1
+1861;F;CARLOS SPEGAZZINI             ;APA  ;48;0
+1862;M;CARLOS SPEGAZZINI             ;APA  ;41;0
+1864;F;RAFAEL CALZADA                ;APA  ;38;0
+1865;F;MONTE GRANDE                  ;APA  ;40;0
+1868;F;CARLOS SPEGAZZINI             ;APA  ;43;0
+1870;F;VILLA CELINA                  ;APA  ;40;0
+1871;F;TRISTAN SUAREZ                ;APA  ;40;0
+1872;F;GONZALEZ CATAN                ;APA  ;40;1
+1874;M;EL JAGUEL                     ;APA  ;33;0
+1875;M;MONTE GRANDE                  ;APA  ;35;0
+1877;F;MONTE GRANDE                  ;APA  ;57;0
+1880;M;C.A.B.A                       ;APA  ;52;0
+1881;M;CARLOS SPEGAZZINI             ;APA  ;51;0
+1883;F;EZEIZA                        ;APA  ;40;0
+1886;F;MONTE GRANDE                  ;APA  ;43;0
+1890;F;LAFERRERE                     ;APA  ;50;0
+1891;F;LANUS                         ;APA  ;39;1
+1892;M;EZEIZA                        ;APA  ;40;0
+1893;M;GONZALEZ CATAN                ;APA  ;40;0
+1895;F;LANUS                         ;APA  ;34;1
+1896;F;EZEIZA                        ;APA  ;48;0
+1897;M;EZEIZA                        ;APA  ;32;0
+1898;F;CARLOS SPEGAZZINI             ;APA  ;48;1
+1900;F;EZEIZA                        ;APA  ;42;0
+1903;F;CARLOS SPEGAZZINI             ;APA  ;39;0
+1905;F;LANUS                         ;APA  ;42;1
+1907;F;EZEIZA                        ;APA  ;40;0
+1909;F;EL JAGUEL                     ;APA  ;34;0
+1913;F;LUIS GUILLON                  ;APA  ;38;0
+1916;F;MONTE GRANDE                  ;APA  ;35;1
+1919;F;MONTE GRANDE                  ;APA  ;48;0
+1920;F;CIUDAD EVITA                  ;APA  ;35;0
+1922;F;CIUDAD EVITA                  ;APA  ;42;1
+1923;M;EL JAGUEL                     ;APA  ;32;0
+1926;F;EL JAGUEL                     ;APA  ;33;0
+1932;M;EL JAGUEL                     ;APA  ;30;0
+1933;M;TRISTAN SUAREZ                ;APA  ;30;0
+1934;F;MONTE GRANDE                  ;APA  ;39;0
+1935;F;EZEIZA                        ;APA  ;35;0
+1937;M;MONTE GRANDE                  ;APA  ;51;0
+1938;F;TRISTAN SUAREZ                ;APA  ;36;0
+1939;F;LA UNION FERROVIARIA          ;APA  ;40;0
+1940;F;MONTE GRANDE                  ;APA  ;43;0
+1941;M;LA UNION FERROVIARIA          ;APA  ;34;0
+1943;F;TRISTAN SUAREZ                ;APA  ;43;0
+1945;M;TRISTAN SUAREZ                ;APA  ;28;1
+1947;F;EZEIZA                        ;APA  ;38;0
+1949;M;ESTEBAN ECHEVERRIA            ;APA  ;45;0
+1950;F;EZEIZA                        ;APA  ;39;0
+1952;F;EZEIZA                        ;APA  ;29;0
+1953;F;EZEIZA                        ;APA  ;31;0
+1954;F;RAFAEL CALZADA                ;APA  ;39;0
+1956;F;LA UNION FERROVIARIA          ;APA  ;28;0
+1958;F;TRISTAN SUAREZ                ;APA  ;40;1
+1959;F;EL JAGUEL                     ;APA  ;41;1
+1961;M;MONTE GRANDE                  ;APA  ;35;0
+1962;F;TRISTAN SUAREZ                ;APA  ;33;0
+1964;M;EL JAGUEL                     ;APA  ;27;0
+1968;F;EZEIZA                        ;APA  ;26;0
+1969;F;LOMAS DE ZAMORA               ;APA  ;33;0
+1970;F;MONTE GRANDE                  ;APA  ;28;0
+1972;F;EL JAGUEL                     ;APA  ;29;0
+1973;M;EZEIZA                        ;APA  ;44;0
+1974;F;MONTE GRANDE                  ;APA  ;36;0
+1978;F;CLAYPOLE                      ;APA  ;31;0
+1980;F;MONTE GRANDE                  ;APA  ;35;0
+1981;F;TRISTAN SUAREZ                ;APA  ;28;0
+1983;M;MAXIMO PAZ                    ;APA  ;30;0
+1984;M;CARLOS SPEGAZZINI             ;APA  ;26;0
+1986;F;MONTE GRANDE                  ;APA  ;27;1
+1987;F;MONTE GRANDE                  ;APA  ;36;0
+1989;M;EZEIZA                        ;APA  ;28;1
+1992;M;EZEIZA                        ;APA  ;29;0
+1993;M;MONTE GRANDE                  ;APA  ;29;0
+1994;M;TRISTAN SUAREZ                ;APA  ;27;0
+1995;M;CARLOS SPEGAZZINI             ;APA  ;32;0
+1997;F;EZEIZA                        ;APA  ;25;0
+1998;M;EZEIZA                        ;APA  ;30;0
+1999;M;LA UNION FERROVIARIA          ;APA  ;37;0
+2000;F;MONTE GRANDE                  ;APA  ;35;0
+2001;F;BANFIELD                      ;APA  ;35;0
+2002;F;MONTE GRANDE                  ;APA  ;33;0
+2003;M;MONTE GRANDE                  ;APA  ;35;0
+2004;F;TRISTAN SUAREZ                ;APA  ;34;0
+2005;M;TAPIALES                      ;APA  ;28;0
+2009;M;EZEIZA                        ;APA  ;26;0
+2011;M;VILLA LUZURIAGA               ;APA  ;29;0
+2012;M;EZEIZA                        ;APA  ;27;0
+2013;M;EL JAGUEL                     ;APA  ;28;0
+2015;F;TRISTAN SUAREZ                ;APA  ;34;1
+2016;M;ALEJANDRO KORN                ;APA  ;44;0
+2018;M;ISIDRO CASANOVA               ;APA  ;26;0
+2021;M;EL JAGUEL                     ;APA  ;28;0
+2022;F;EL JAGUEL                     ;APA  ;43;0
+2023;M;MONTE GRANDE                  ;APA  ;28;0
+2024;M;LA UNION                      ;APA  ;37;0
+2025;F;HURLINGHAM                    ;APA  ;32;0
+2027;M;FUNES                         ;APA  ;47;0
+2028;M;ROSARIO                       ;APA  ;30;0
+2031;M;ROSARIO                       ;APA  ;32;1
+2032;M;ROSARIO                       ;APA  ;27;0
+2033;M;ROSARIO                       ;APA  ;29;0
+2034;M;CORDOBA                       ;APA  ;49;0
+2036;M;CORDOBA                       ;APA  ;36;0
+2037;M;CORDOBA                       ;APA  ;54;0
+2038;M;CORDOBA                       ;APA  ;37;1
+2042;F;ADROGUE                       ;APA  ;47;0
+2044;M;MONTE GRANDE                  ;APA  ;28;0
+2045;M;CIUDAD EVITA                  ;APA  ;44;0
+2048;M;LOMAS DE ZAMORA               ;APA  ;39;0
+2049;M;EZEIZA                        ;APA  ;37;0
+2051;M;HURLINGHAM                    ;APA  ;38;0
+2052;M;CAPITAL FEDERAL               ;APA  ;27;0
+2053;M;QUILMES                       ;APA  ;31;0
+2055;M;EZEIZA                        ;APA  ;38;0
+2057;M;CIUDAD EVITA                  ;APA  ;27;0
+2059;M;EL JAGUEL                     ;APA  ;41;0
+2060;M;MERLO                         ;APA  ;47;1
+2061;M;EZEIZA                        ;APA  ;37;1
+2062;M;ITUZAINGO                     ;APA  ;38;0
+2065;M;HAEDO                         ;FCONV;63;0
+2069;M;TURDERA                       ;APA  ;37;0
+2070;M;CIUDAD EVITA                  ;APA  ;31;0
+2071;M;EZEIZA                        ;APA  ;31;0
+2072;M;ARGUELLO                      ;APA  ;31;0
+2073;M;EZEIZA                        ;APA  ;35;0
+2074;M;PALOMAR                       ;APA  ;39;0
+2076;M;MONTE GRANDE                  ;APA  ;35;0
+2077;M;CARLOS SPEGAZZINI             ;APA  ;33;0
+2080;M;CABA                          ;APA  ;41;0
+2082;M;JOSE MARMOL                   ;APA  ;39;0
+2083;M;TRISTAN SUAREZ                ;APA  ;48;0
+2084;M;EZEIZA                        ;APA  ;38;0
+2099;M;WILDE                         ;UPSA ;43;0
+2102;M;VICTORIA                      ;UPSA ;36;0
+2107;M;DORREGO                       ;APA  ;35;0
+2108;M;LAS TORTUGAS - GODOY CRUZ     ;APA  ;41;0
+2109;M;LAS HERAS                     ;APA  ;42;0
+2112;F;CAPITAL FEDERAL               ;UPSA ;48;1
+2118;M;CAPITAL FEDERAL               ;APA  ;29;0
+2125;M;LAFERRERE                     ;APA  ;29;0
+2127;M;CAPITAL FEDERAL               ;APA  ;30;1
+2131;M;CAPITAL FEDERAL               ;APA  ;33;0
+2132;M;CASEROS                       ;APA  ;34;0
+2133;M;CAPITAL FEDERAL               ;APA  ;34;1
+2134;M;CAPITAL FEDERAL               ;APA  ;40;0
+2137;M;LA MATANZA                    ;APA  ;32;1
+2140;M;TRES DE FEBRERO               ;APA  ;41;0
+2141;M;TEMPERLEY                     ;APA  ;66;1
+2143;M;LOS POLVORINES                ;APA  ;24;0
+2144;M;LOS POLVORINES                ;APA  ;24;0
+2145;M;LOS POLVORINES                ;APA  ;26;1
+2146;M;JOSE C. PAZ                   ;APA  ;27;1
+2147;M;CAPITAL FEDERAL               ;UPSA ;38;0
+2149;M;LANUS OESTE                   ;APA  ;34;1
+2152;M;PABLO NOGUES                  ;APA  ;51;0
+2157;M;DON TORCUATO                  ;APA  ;30;0
+2158;M;VILLA DE MAYO                 ;APA  ;36;0
+2159;M;EZPELETA                      ;APA  ;33;0
+2160;M;TRISTAN SUAREZ                ;APA  ;28;0
+2161;F;EZEIZA                        ;APA  ;25;0
+2163;M;FLORENCIO VARELA              ;APA  ;37;1
+2165;M;PABLO NOGUES                  ;APA  ;27;0
+2168;M;VILLA DOMINICO                ;APA  ;25;0
+2169;M;GRAND BOURG                   ;APA  ;27;0
+2175;F;CABA                          ;UPSA ;29;0
+2180;M;MERLO                         ;APA  ;28;0
+2181;M;TRISTAN SUAREZ                ;APA  ;25;0
+2182;M;VALENTIN ALSINA               ;APA  ;36;0
+2183;M;LOMAS DE ZAMORA               ;APA  ;36;0
+2187;M;TEMPERLEY                     ;APA  ;37;0
+2188;M;MERLO                         ;APA  ;29;0
+2189;M;EZEIZA                        ;APA  ;35;0
+2191;M;TABLADA                       ;APA  ;43;1
+2192;M;SAN ISIDRO                    ;APA  ;30;0
+2194;M;EZEIZA                        ;APA  ;27;0
+2202;M;LIBERTAD                      ;APA  ;27;1
+2203;M;MERLO                         ;APA  ;42;1
+2204;M;EZEIZA                        ;UPSA ;40;1
+2205;M;QUILMES                       ;APA  ;29;0
+2209;F;VIRREY DEL PINO               ;APA  ;35;1
+2210;F;EZEIZA                        ;APA  ;31;0
+2211;F;VILLA DE MAYO                 ;APA  ;23;0
+2212;M;CAPITAL FEDERAL               ;APA  ;32;0
+2222;F;CAPITAL FEDERAL               ;UPSA ;45;0
+2223;M;CAPITAL FEDERAL               ;APA  ;29;0
+2225;M;EL TALAR                      ;APA  ;24;0
+2229;M;                              ;APA  ;44;0
+2231;M;CABA                          ;APA  ;33;0
+2238;M;CAPITAL FEDERAL               ;APA  ;36;0
+2246;M;LOMAS DEL MIRADOR             ;APA  ;37;0
+2248;M;LOS POLVORINES                ;APA  ;40;0
+2252;M;CABA                          ;APA  ;38;1
+2256;M;                              ;APA  ;41;0
+2257;M;EL JAGUEL                     ;APA  ;26;0
+2258;M;MONTE GRANDE                  ;APA  ;25;0
+2259;M;EL JAGUEL                     ;APA  ;27;0
+2261;M;LLAVALLOL                     ;APA  ;27;0
+2262;M;LOMAS DE ZAMORA               ;APA  ;38;1
+2263;M;SAN JUSTO                     ;APA  ;29;0
+2265;M;LONGCHAMPS                    ;APA  ;34;0
+2266;M;MERLO                         ;APA  ;37;0
+2268;F;EL JAGUEL                     ;APA  ;25;0
+2269;M;GONZALEZ CATAN                ;APA  ;28;1
+2270;M;CARLOS SPEGAZZINI             ;APA  ;34;0
+2271;M;CAPITAL FEDERAL               ;APA  ;42;0
+2276;M;CABA                          ;APA  ;28;0
+2277;M;BARRIO UNO - EZEIZA           ;APA  ;52;0
+2284;M;CAPITAL FEDERAL               ;UPSA ;36;0
+2285;M;CABA                          ;APA  ;39;0
+2286;M;ISIDRO CASANOVA               ;APA  ;31;0
+2287;M;GONZALEZ CATAN                ;APA  ;31;1
+2288;M;LANUS                         ;APA  ;29;1
+2289;M;VALENTIN ALSINA               ;APA  ;24;0
+2290;M;RAMOS MEJIA                   ;APA  ;30;0
+2291;M;ITUZAINGO                     ;APA  ;35;0
+2292;M;PARQUE SAN MARTIN             ;APA  ;47;0
+2293;M;CASTELAR                      ;APA  ;24;1
+2295;M;RAFAEL CALZADA                ;APA  ;32;1
+2298;M;EL JAGUEL                     ;APA  ;24;0
+2299;M;EL JAGUEL                     ;APA  ;29;0
+2300;F;CARLOS SPEGAZZINI             ;APA  ;26;0
+2303;F;EL JAGUEL                     ;APA  ;46;0
+2304;M;MERLO                         ;APA  ;28;0
+2305;M;ITUZAINGO                     ;APA  ;38;0
+2310;M;CAPITAL FEDERAL               ;APA  ;32;0
+2315;M;QUILMES                       ;APA  ;49;0
+2323;M;CAPITAL FEDERAL               ;APA  ;52;0
+2324;M;LANUS                         ;APA  ;25;0
+2325;M;MORON                         ;APA  ;48;0
+2328;F;CAPITAL FEDERAL               ;UPSA ;47;0
+2332;M;TEMPERLEY                     ;UPSA ;34;0
+2333;M;MONTE GRANDE                  ;UPSA ;42;0
+2339;M;MORENO                        ;APA  ;44;0
+2340;M;CAPITAL FEDERAL               ;UPSA ;40;0
+2346;F;CAPITAL FEDERAL               ;APA  ;56;0
+2351;F;CABA                          ;UPSA ;37;0
+2354;M;CASTELAR                      ;APA  ;24;0
+2355;M;ALEJANDRO KORN                ;APA  ;28;1
+2357;M;CAPITAL FEDERAL               ;APA  ;26;0
+2359;F;ISIDRO CASANOVA               ;APA  ;28;0
+2362;M;SAN MARTIN                    ;APA  ;25;0
+2363;M;DERQUI                        ;APA  ;38;0
+2370;M;VILLA DE MAYO                 ;APA  ;29;0
+2372;M;BANFIELD                      ;APA  ;25;0
+2373;M;CIUDAD EVITA                  ;APA  ;31;1
+2375;M;CABA                          ;APA  ;25;0
+2377;M;AVELLANEDA                    ;APA  ;27;0
+2378;M;CARLOS SPEGAZZINI             ;APA  ;31;1
+2379;F;ITUZAINGO                     ;APA  ;29;1
+2380;F;EZEIZA                        ;APA  ;52;0
+2383;M;CAPITAL FEDERAL               ;APA  ;33;0
+2387;M;SAN ANTONIO DE PADUA          ;UPSA ;34;0
+2390;F;EZEIZA                        ;UPSA ;30;0
+2398;M;HURLINGHAM                    ;APA  ;41;0
+2400;M;BERNAL                        ;UPSA ;38;0
+2402;M;CAPITAL FEDERAL               ;UPSA ;34;0
+2403;F;HURLINGHAM                    ;UPSA ;58;0
+2405;M;TRISTAN SUAREZ                ;APA  ;43;0
+2406;M;LANUS                         ;APA  ;33;0
+2407;M;EZEIZA                        ;APA  ;25;0
+2408;M;EZEIZA                        ;APA  ;23;0
+2409;M;MONTE GRANDE                  ;APA  ;23;0
+2410;M;BANFIELD                      ;APA  ;39;0
+2411;M;EL JAGÜEL                     ;APA  ;38;0
+2412;M;CABA                          ;APA  ;28;1
+2413;M;SARANDI                       ;APA  ;27;1
+2417;M;VILLA DE MAYO                 ;APA  ;33;0
+2418;M;CABA                          ;APA  ;25;1
+2419;M;CAPITAL FEDERAL               ;APA  ;29;0
+2421;M;EZEIZA                        ;APA  ;31;0
+2422;F;LAFERRERE                     ;APA  ;24;0
+2423;F;TAPIALES                      ;APA  ;34;0
+2426;M;CAPITAL FEDERAL               ;UPSA ;32;0
+2427;M;LANUS                         ;APA  ;25;0
+2429;M;LANUS                         ;APA  ;23;0
+2432;M;MORENO                        ;APA  ;45;1
+2433;M;QUILMES                       ;APA  ;29;0
+2434;M;MORENO                        ;APA  ;40;1
+2435;M;MERLO                         ;APA  ;31;0
+2436;M;PONTEVEDRA                    ;APA  ;45;0
+2437;M;LIBERTAD                      ;APA  ;26;0
+2438;M;LANUS                         ;APA  ;31;0
+2439;F;BARRIO FINCAS SAN VICENTE     ;UPSA ;32;0
+2440;M;HURLINGHAM                    ;APA  ;22;0
+2442;M;LUIS GUILLON                  ;APA  ;30;0
+2443;M;MERLO                         ;APA  ;29;0
+2444;M;MERLO                         ;APA  ;29;0
+2446;M;MERLO                         ;APA  ;27;0
+2447;M;PARQUE AVELLANEDA             ;APA  ;26;0
+2450;M;VIRREY DEL PINO               ;APA  ;33;0
+2458;F;BERAZATEGUI                   ;UPSA ;25;0
+2459;M;CAPITAL FEDERAL               ;APA  ;33;0
+2460;M;CAPITAL FEDERAL               ;UPSA ;39;0
+2461;M;CAPITAL FEDERAL               ;UPSA ;37;0
+2465;M;EZEIZA                        ;APA  ;41;0
+2466;M;LOMAS DE ZAMORA               ;APA  ;24;1
+2467;M;TRISTÁN SUÁREZ                ;APA  ;24;1
+2468;F;CAPITAL FEDERAL               ;APA  ;41;0
+2469;M;MONTE GRANDE                  ;APA  ;27;0
+2470;F;CIUDAD EVITA                  ;APA  ;26;0
+2473;F;BANFIELD                      ;APA  ;29;0
+2475;M;GUAYMALLEN                    ;APA  ;31;0
+2476;M;AVELLANEDA                    ;APA  ;38;0
+2480;M;AGUA DE ORO                   ;APA  ;24;1
+2481;M;CORDOBA                       ;APA  ;25;0
+2486;M;VILLA CELINA                  ;APA  ;25;0
+2487;F;CANNING                       ;APA  ;39;0
+2488;F;LAFERRERE                     ;APA  ;36;1
+2498;M;ISIDRO CASANOVA               ;APA  ;34;0
+2500;M;FLORIDA OESTE                 ;FCONV;30;0
+2504;M;MENDOZA                       ;APA  ;32;0
+2505;M;LAS HERAS                     ;APA  ;24;0
+2507;M;VILLA NUEVA - GUAYMALLEN      ;APA  ;25;0
+2508;M;LA UNION FERROVIARIA          ;APA  ;31;0
+2509;M;CAPITAL FEDERAL               ;APA  ;31;0
+2510;M;TEMPERLEY                     ;APA  ;22;0
+2511;M;MONTE GRANDE                  ;APA  ;36;0
+2512;M;EZEIZA                        ;APA  ;22;0
+2513;M;CAPITAL FEDERAL               ;APA  ;24;0
+2515;M;EL JAGUEL                     ;APA  ;26;0
+2516;M;VILLA BALLESTER               ;APA  ;28;0
+2517;M;VILLA BALLESTER               ;APA  ;27;0
+2519;M;ITUZAINGO                     ;APA  ;29;0
+2520;M;VILLA TESEI                   ;APA  ;27;0
+2521;M;LA UNION FERROVIARIA          ;APA  ;29;0
+2523;M;EZEIZA                        ;APA  ;35;0
+2524;M;MONTE CHINGOLO                ;APA  ;38;0
+2527;M;QUILMES                       ;APA  ;26;0
+2528;M;ADROGUE                       ;APA  ;31;0
+2529;M;MONTE GRANDE                  ;APA  ;36;0
+2530;F;LANUS                         ;APA  ;30;0
+2531;F;BANFIELD                      ;APA  ;37;1
+2532;F;GONZALEZ CATAN                ;APA  ;24;0
+2533;M;TEMPERLEY                     ;APA  ;33;0
+2534;M;LLAVALLOL                     ;APA  ;22;0
+2536;M;CAPITAL FEDERAL               ;APA  ;42;1
+2539;M;EL ALGARROBAL - LAS HERAS     ;APA  ;26;0
+2541;M;LAS HERAS                     ;APA  ;27;0
+2542;M;VILLA CELINA                  ;APA  ;23;0
+2544;M;VILLA MADERO                  ;APA  ;23;1
+2545;M;MAXIMO PAZ                    ;APA  ;36;1
+2546;M;LAFERRERE                     ;APA  ;21;0
+2547;M;CIUDAD EVITA                  ;APA  ;28;0
+2548;M;VILLA MADERO                  ;APA  ;22;0
+2549;M;ALDO BONZI                    ;APA  ;26;0
+2550;M;SAN FERNANDO                  ;APA  ;23;0
+2552;M;MONTE GRANDE                  ;APA  ;54;0
+2553;M;CASTELAR                      ;APA  ;27;0
+2554;M;LANUS                         ;APA  ;25;0
+2555;M;LANUS ESTE                    ;APA  ;27;0
+2556;M;OLIVOS                        ;UPSA ;44;0
+2558;M;LA PLATA                      ;UPSA ;44;0
+2562;F;EZEIZA                        ;APA  ;22;0
+2563;M;CIUDAD EVITA                  ;APA  ;26;0
+2565;F;GONZALEZ CATAN                ;APA  ;47;1
+2566;M;RAFAEL CASTILLO               ;APA  ;23;0
+2567;M;MONTE GRANDE                  ;APA  ;35;0
+2568;M;MORON                         ;APA  ;22;0
+2576;M;EZEIZA                        ;APA  ;26;0
+2577;M;ISIDRO CASANOVA               ;APA  ;34;0
+2581;M;ROSARIO                       ;UPSA ;45;1
+2582;F;CABA                          ;UPSA ;40;0
+2584;M;SALDAN                        ;APA  ;39;0
+2585;M;CORDOBA                       ;APA  ;45;0
+2586;M;ROSARIO                       ;APA  ;36;0
+2587;M;FUNES                         ;APA  ;54;0
+2588;M;ROSARIO                       ;APA  ;30;0
+2593;M;HURLINGHAM                    ;APA  ;37;0
+2594;M;EL PALOMAR  CIUDAD JARDIN     ;APA  ;34;0
+2596;M;VILLA BOSCH                   ;APA  ;45;0
+2601;M;CASTELAR - MORON              ;APA  ;31;0
+2603;M;LOMAS DE ZAMORA               ;APA  ;25;0
+2604;M;CABA                          ;APA  ;26;1
+2605;M;MONTE GRANDE                  ;APA  ;32;0
+2606;M;EZEIZA                        ;APA  ;22;0
+2607;M;EZEIZA                        ;APA  ;35;0
+2608;M;CABA                          ;APA  ;35;0
+2609;M;FUNES                         ;APA  ;30;0
+2610;M;SAN FRANCISCO SOLANO          ;APA  ;38;0
+2612;M;HURLINGHAM                    ;APA  ;29;0
+2613;M;LIBERTAD                      ;APA  ;25;0
+2615;M;RAMOS MEJIA - LA MATANZA      ;UPSA ;36;0
+2617;M;MERLO                         ;APA  ;30;0
+2618;M;EZEIZA                        ;APA  ;27;0
+2619;M;EZEIZA                        ;APA  ;24;1
+2620;M;CIUDAD EVITA                  ;APA  ;42;0
+2623;M;CAPITAL FEDERAL               ;UPSA ;33;0
+2624;M;CAPITAL FEDERAL               ;UPSA ;56;0
+2628;M;BERAZATEGUI                   ;APA  ;34;0
+2629;M;ITUZAINGO                     ;APA  ;34;0
+2632;M;LOMAS DE ZAMORA               ;UPSA ;63;0
+2634;M;SARANDI                       ;APA  ;34;0
+2636;F;TISTAN SUAREZ                 ;APA  ;25;0
+2637;M;CAPITAL FEDERAL               ;APA  ;33;0
+2639;M;MERLO                         ;APA  ;32;0
+2640;M;ITUZAINGO                     ;APA  ;23;0
+2641;F;MORON                         ;APA  ;29;0
+2643;F;EZEIZA                        ;APA  ;26;0
+2645;F;EZEIZA                        ;APA  ;35;0
+2646;F;GONZALEZ CATAN                ;APA  ;24;1
+2647;M;TEMPERLEY                     ;APA  ;31;0
+2648;M;LOMAS DE ZAMORA               ;APA  ;40;0
+2649;M;TRISTAN SUAREZ                ;APA  ;27;0
+2650;M;ISIDRO CASANOVA               ;APA  ;38;1
+2651;M;EZEIZA                        ;APA  ;42;0
+2652;M;MONTE GRANDE                  ;APA  ;25;0
+2653;M;LAFERRERE                     ;APA  ;22;0
+2655;M;GONZALEZ CATAN                ;APA  ;23;0
+2656;M;ISIDRO CASANOVA               ;APA  ;30;0
+2657;M;FUNES                         ;APA  ;24;0
+2658;M;ROSARIO                       ;APA  ;34;0
+2659;M;MORON                         ;APA  ;32;0
+2660;M;VILLA MAIPU                   ;APA  ;23;0
+2661;M;MERLO                         ;APA  ;32;0
+2662;M;HAEDO - MORÓN                 ;APA  ;39;0
+2663;M;GUERNICA                      ;APA  ;26;0
+2664;M;LUJAN DE CUYO                 ;APA  ;31;0
+2665;M;LANUS                         ;APA  ;24;0
+2666;F;MONTE GRANDE                  ;APA  ;27;0
+2668;M;CABA                          ;APA  ;31;0
+2669;M;CABA                          ;APA  ;29;0
+2670;M;LAFERRERE                     ;APA  ;23;0
+2671;M;ISIDRO CASANOVA               ;APA  ;24;0
+2675;M;EL JAGUEL                     ;APA  ;37;1
+2676;M;EL PATO                       ;APA  ;24;0
+2677;M;EZEIZA                        ;APA  ;21;0
+2678;M;EZEIZA                        ;APA  ;41;0
+2679;M;HURLINGHAM                    ;APA  ;27;1
+2681;M;JOSE C PAZ                    ;APA  ;24;0
+2682;M;CAPITAL FEDERAL               ;APA  ;24;0
+2683;M;EL PALOMAR                    ;APA  ;21;0
+2684;M;MONTEGRANDE                   ;APA  ;24;0
+2686;M;EZEIZA                        ;APA  ;25;0
+2688;M;MAXIMO PAZ                    ;APA  ;28;0
+2689;M;MONTE CHINGOLO                ;APA  ;39;0
+2690;M;EL JAGUEL                     ;APA  ;35;0
+2691;M;EZEIZA                        ;APA  ;43;0
+2693;M;MAIPU                         ;APA  ;26;0
+2695;M;CAPITAL FEDERAL               ;UPSA ;33;0
+2696;M;RIO CEBALLOS                  ;APA  ;30;0
+2697;M;PARQUE SAN MARTIN             ;APA  ;39;0
+2698;M;CAPITAL FEDERAL               ;APA  ;32;0
+2699;M;LOMA HERMOSA                  ;APA  ;38;0
+2701;M;MORENO                        ;APA  ;37;0
+2702;M;EZEIZA                        ;APA  ;34;0
+2703;M;VILLA TESEI                   ;APA  ;33;1
+2705;M;LA MATANZA                    ;APA  ;41;0
+2706;M;SALSIPUEDES                   ;APA  ;20;0
+2707;M;CORDOBA                       ;APA  ;25;0
+2708;F;PIÑEYRO                       ;UPSA ;33;0
+2711;M;LANUS OESTE                   ;UPSA ;27;0
+2712;F;LANUS                         ;UPSA ;32;0
+2713;M;CABA                          ;APA  ;49;0
+2714;M;VILLA CARLOS PAZ              ;APA  ;40;1
+2715;M;ROSARIO                       ;APA  ;37;0
+2716;M;ROSARIO                       ;APA  ;35;0
+2717;M;FUNES                         ;APA  ;23;0
+2718;F;VILLA  MADERO                 ;APA  ;34;0
+2719;F;MONTE GRANDE                  ;APA  ;35;0
+2720;M;RAMOS MEJIA                   ;APA  ;34;0
+2721;M;MORENO                        ;APA  ;40;0
+2722;M;SAN JUSTO                     ;APA  ;30;0
+2723;M;CASTELAR - MORON              ;APA  ;27;0
+2724;M;CAPITAL FEDERAL               ;APA  ;25;0
+2725;M;LANUS OESTE                   ;APA  ;31;0
+2726;M;CASTELAR                      ;APA  ;29;0
+2741;M;MENDOZA                       ;APA  ;30;0
+2743;M;LAS HERAS                     ;APA  ;22;0
+2744;M;JUNIN                         ;APA  ;25;0
+2745;M;GUAYMALLEN                    ;APA  ;29;0
+2746;M;LAS HERAS                     ;APA  ;24;0
+2748;M;ALDO BONZI                    ;APA  ;32;0
+2749;M;ROSARIO                       ;APA  ;38;0
+2750;M;ROSARIO                       ;APA  ;37;0
+2751;M;ROSARIO                       ;APA  ;35;0
+2752;M;ROSARIO                       ;APA  ;48;0
+2754;M;SAN JUSTO                     ;APA  ;42;0
+2755;M;MONTE GRANDE                  ;APA  ;26;1
+2756;M;SAN JUSTO                     ;APA  ;36;0
+2757;M;EZEIZA                        ;APA  ;26;0
+2758;M;ISIDRO CASANOVA               ;APA  ;26;1
+2759;M;BANFIELD                      ;APA  ;20;0
+2762;M;FLORENCIO VARELA              ;APA  ;29;0
+2764;F;VICTORIA                      ;UPSA ;44;0
+2765;M;ARGUELLO                      ;APA  ;27;0
+2766;M;MONTE GRANDE                  ;APA  ;24;0
+2767;M;MORON                         ;APA  ;22;1
+2768;M;MONTE GRANDE                  ;APA  ;42;1
+2770;M;CASTELAR - MORON              ;APA  ;39;0
+2771;M;BANFIELD                      ;APA  ;25;0
+2772;M;HAEDO - MORON                 ;APA  ;34;0
+2773;M;GLEW                          ;APA  ;26;0
+2774;M;MERLO                         ;APA  ;26;1
+2775;M;JOSE INGENIEROS               ;APA  ;24;0
+2777;M;EZEIZA                        ;APA  ;26;0
+2778;M;LAFERRERE                     ;APA  ;23;0
+2779;M;VILLA DIAMANTE - LANUS        ;APA  ;35;0
+2780;M;EZEIZA                        ;APA  ;22;0
+2781;M;EZEIZA                        ;APA  ;23;0
+2786;M;DORREGO                       ;APA  ;33;0
+2787;M;GODOY CRUZ                    ;APA  ;26;0
+2788;M;LUJAN DE CUYO                 ;APA  ;28;0
+2789;M;ROSARIO                       ;APA  ;30;0
+2790;M;ROSARIO                       ;APA  ;40;0
+2791;M;ROSARIO                       ;APA  ;30;0
+2792;M;ROSARIO                       ;APA  ;30;0
+2794;M;CORDOBA                       ;APA  ;31;1
+2795;M;CORDOBA                       ;APA  ;39;0
+2796;M;CORDOBA                       ;APA  ;22;0
+2797;M;RIO CEBALLOS                  ;APA  ;27;0
+2801;M;ITUZAINGO                     ;APA  ;39;0
+2802;M;LUIS GUILLON                  ;APA  ;24;0
+2803;M;MONTE GRANDE                  ;APA  ;24;0
+2805;M;GERLI                         ;APA  ;25;0
+2806;M;GREGORIO DE LAFERRERE         ;APA  ;24;0
+2807;M;SANTOS LUGARES                ;APA  ;40;0
+2811;M;EZEIZA                        ;APA  ;30;0
+2813;M;LANUS                         ;APA  ;28;0
+2814;M;EL JAGUEL                     ;APA  ;28;0
+2817;M;TRISTAN SUAREZ                ;APA  ;24;0
+2820;M;EZEIZA                        ;APA  ;23;0
+2821;M;MONTE GRANDE                  ;APA  ;20;0
+2827;M;MORENO                        ;APA  ;32;0
+2828;M;CAPITAL FEDERAL               ;APA  ;33;0
+2829;M;REMEDIOS DE ESCALADA          ;APA  ;42;0
+2830;M;QUILMES                       ;APA  ;26;0
+2831;M;LOMAS DE ZAMORA               ;APA  ;39;0
+2833;F;AVELLANEDA                    ;UPSA ;41;1
+2836;M;ISIDRO CASANOVA               ;APA  ;28;0
+2841;M;VALENTIN ALSINA               ;APA  ;33;0
+2844;M;MONTE GRANDE                  ;APA  ;23;0
+2845;M;TRISTAN SUAREZ                ;APA  ;38;0
+2847;M;LA UNION                      ;APA  ;26;0
+2850;M;EZEIZA                        ;APA  ;29;0
+2851;M;EZEIZA                        ;APA  ;23;0
+2852;M;EZEIZA                        ;APA  ;29;0
+2853;M;RAMOS MEJIA                   ;APA  ;42;0
+2854;M;MONTE GRANDE                  ;APA  ;22;0
+2855;F;CAPITAL FEDERAL               ;UPSA ;30;0
+2856;M;LAS HERAS                     ;APA  ;28;0
+2857;M;LANUS                         ;APA  ;30;0
+2858;M;LUIS GUILLON                  ;APA  ;21;0
+2859;F;CABA                          ;UPSA ;31;0
+2860;F;CASTELAR                      ;UPSA ;30;0
+2861;M;VILLA LUZURIAGA               ;UPSA ;55;0
+2869;M;EZEIZA                        ;APA  ;33;0
+2870;M;ROLDAN                        ;APA  ;45;0
+2871;M;FUNES                         ;APA  ;29;0
+2872;M;ROSARIO                       ;APA  ;23;0
+2873;M;ROSARIO                       ;APA  ;27;0
+2875;M;LLAVALLOL                     ;UPSA ;44;0
+2876;M;MORON                         ;APA  ;21;0
+2877;M;SALSIPUEDES                   ;APA  ;41;0
+2883;M;CORDOBA                       ;APA  ;32;0
+2884;M;CORDOBA                       ;APA  ;24;0
+2885;M;RIO CEBALLOS                  ;APA  ;46;0
+2896;M;SAN CARLOS DE BARILOCHE       ;APA  ;31;0
+2909;M;MONTE GRANDE                  ;APA  ;39;0
+2910;M;EL JAGUEL                     ;APA  ;28;0
+2911;M;LAVALLOL                      ;APA  ;24;1
+2912;M;EZEIZA                        ;APA  ;26;0
+2913;M;EZEIZA                        ;APA  ;24;1
+2914;M;LA UNION                      ;APA  ;37;0
+2915;M;EZEIZA                        ;APA  ;34;0
+2916;M;CARLOS SPEGAZZINI             ;APA  ;24;1
+2917;M;EL JAGUEL                     ;APA  ;22;0
+2918;M;EL JAGUEL                     ;APA  ;24;0
+2919;M;CARLOS SPEGAZZINI             ;APA  ;24;1
+2920;M;TRISTAN SUAREZ                ;APA  ;28;0
+2921;M;EZEIZA                        ;APA  ;20;0
+2922;F;CABA                          ;UPSA ;36;0
+2923;M;MAQUINISTA SAVIO              ;FCONV;50;0
+2924;M;TRISTAN SUAREZ                ;APA  ;30;0
+2925;F;CABA                          ;UPSA ;29;0
+2933;M;BERNAL                        ;UPSA ;36;0
+2935;M;CAPITAL FEDERAL               ;UPSA ;38;0
+214256;M;EZEIZA                        ;APA  ;19;0
+214257;M;MONTE GRANDE                  ;APA  ;29;0
+214258;M;LANUS OESTE                   ;APA  ;31;0
+214259;M;QUILMES                       ;APA  ;35;0
+214260;M;HURLINGHAM                    ;APA  ;33;0
+220141;M;TRISTAN SUAREZ                ;APA  ;25;0
+220142;M;SAN JUSTO                     ;APA  ;21;0
+220143;M;MONTE GRANDE                  ;APA  ;36;0
+220144;M;EZEIZA                        ;APA  ;27;0
+220145;M;EZEIZA                        ;APA  ;27;0
+270334;M;CABA                          ;UPSA ;32;0
+329435;M;CABA                          ;APA  ;34;0
+329436;M;CABA                          ;APA  ;33;0
+329437;M;VICENTE LOPEZ                 ;APA  ;22;1
+329438;M;QUILMES OESTE                 ;APA  ;22;0
+329439;M;MARTINEZ                      ;APA  ;33;0
+329440;M;BOULOGNE SUR MER              ;APA  ;28;0
+329441;M;CABA                          ;APA  ;32;0
+329442;M;LIBERTAD                      ;APA  ;25;0
+329443;M;EZEIZA                        ;APA  ;26;0
+367968;M;JUAREZ CELMAN                 ;APA  ;36;0
+430266;F;LUIS GUILLON                  ;UPSA ;31;0
+471931;M;VILLA ALLENDE                 ;UPSA ;37;0
+528510;F;CABA                          ;UPSA ;29;0
+567220;M;CABA                          ;UPSA ;29;0
+1886518;M;HURLINGHAM                    ;APA  ;33;0
+1886519;M;TRISTAN SUAREZ                ;APA  ;25;0
+1886520;M;SAN JUSTO                     ;APA  ;21;0
+2087628;M;LANUS OESTE                   ;APA  ;31;0
+2090637;M;EZEIZA                        ;APA  ;27;0
+2090638;M;MONTE GRANDE                  ;APA  ;29;0
+2174898;M;MONTE GRANDE                  ;APA  ;36;0
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
